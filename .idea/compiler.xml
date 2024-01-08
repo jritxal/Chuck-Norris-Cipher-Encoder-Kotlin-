@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-classes-java" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-classes-java.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-classes-java.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-classes-kotlin" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-classes-kotlin.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-classes-kotlin.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-generated-sources-headers-java" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-reports-tests" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-reports-tests.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-reports-tests.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-test-results" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-test-results.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-test-results.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-tmp" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task-build-tmp.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).Chuck_Norris_Cipher_Encoder__Kotlin_-task.test" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).util" target="17" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).util.main" target="8" />
+      <module name="Chuck_Norris_Cipher_Encoder_(Kotlin).util.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
