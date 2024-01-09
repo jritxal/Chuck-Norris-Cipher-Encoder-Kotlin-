@@ -41,7 +41,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+  <component name="NewModuleRootManager">
     <output-test url="file://$MODULE_DIR$/../../../../Chuck Norris Cipher Encoder (Kotlin)/task/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../Chuck Norris Cipher Encoder (Kotlin)/task/src/test" />
